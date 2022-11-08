@@ -1,5 +1,7 @@
 <h3> Oi meu nome é Matheus, tenho 15 anos e estou começando a estudar desenvolvimento web. </h3>
-<div style="padding-top:75.600%;position:relative;"><iframe src="https://gifer.com/embed/76Xi" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">através de GIFER</a></p>
+
+  <img align="center" src="https://i.gifer.com/76Xi.gif"/>
+
 
   <a href="https://github.com/matheusluizguedes">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=matheusluizguedes&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
