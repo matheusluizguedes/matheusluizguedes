@@ -1,6 +1,6 @@
 <h3> Oi meu nome é Matheus, tenho 15 anos e estou começando a estudar desenvolvimento web. </h3>
 
-  <img align="center" src="https://i.gifer.com/76Xi.gif"/>
+  <img align="center" src="[https://i.gifer.com/76Xi.gif](https://gifer.com/76Xi)"/>
 
 
   <a href="https://github.com/matheusluizguedes">
